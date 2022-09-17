@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <h1>10 Demo Content <br>
+    Generators for Web <br>
+    Designers</h1> 
+      <hr>
+    <body>
+      <p>
+        <b>By Eric Karkovack on May 12th, 2022</b>
+    </p> 
+         <hr>
+    <p> 
+       Demo Content is probably one of the least talked about items in a <br>
+       designers's toolbox. Yet, it's also very useful. While we often see it is a <br>
+       means to populate a mockup or show what a CMS theme is capable of,<br> 
+       there are other good users.
+    </p>
+           <p>
+        For instance, it can serve as placeholder during site development - you <br>
+        know, while you wat for the <q>real</q> stuff to arrive. This helps you <br>
+        continue to move forward on a project that could otherwise be stalled.
+           </p>
+      </body>
+</html>
